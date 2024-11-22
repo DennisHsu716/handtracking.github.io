@@ -13,3 +13,5 @@ creation of interactive applications.
     import mediapipe as mp
     import math
 ## Usage
+Through the computer's camera, hand movements can be detected in real-time, allowing for the distinction of various gestures 
+![image](https://github.com/DennisHsu716/handtracking.github.io/blob/main/video/video.gif)
