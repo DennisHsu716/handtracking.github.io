@@ -18,3 +18,4 @@ Through the computer's camera, hand movements can be detected in real-time, allo
 ![image](https://github.com/DennisHsu716/handtracking.github.io/blob/main/video/video.gif)
 
 ## About the future plans
+We could used in hospital for doctors tracking patients move.
