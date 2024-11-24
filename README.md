@@ -18,4 +18,4 @@ Through the computer's camera, hand movements can be detected in real-time, allo
 ![image](https://github.com/DennisHsu716/handtracking.github.io/blob/main/video/video.gif)
 
 ## About the future plans
-We could used in hospital for doctors tracking patients move.
+Applying image recognition technology in medical settings can facilitate real-time observation and analysis of patient behavior. By installing camera devices, the system can identify patients' daily movements, changes in posture, or abnormal behaviors, such as falls, prolonged immobility, or other hazardous situations, and immediately alert medical staff. Additionally, this technology can be utilized for long-term behavioral tracking, providing valuable data to support patient recovery progress and detect signs of disease. This solution not only alleviates the monitoring burden on medical staff but also enhances patient safety and healthcare efficiency. It is particularly well-suited for elderly care or patient populations that require close monitoring.
