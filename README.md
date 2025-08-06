@@ -1,4 +1,4 @@
-# Hand Tracking
+# AI Image Recognition 
 ## Summary
 MediaPipe is a cross-platform machine learning framework developed by Google, designed for implementing features 
 such as hand tracking, face detection, and pose estimation. By utilizing MediaPipe with Python, developers can 
