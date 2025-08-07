@@ -2,7 +2,11 @@
 ## 📌 Summary  
 This project demonstrates a real-time image recognition system utilizing MediaPipe and Python. MediaPipe, developed by Google, offers a cross-platform framework ideal for implementing machine learning features such as hand tracking, pose estimation, and face detection. Combined with Python’s flexibility and libraries like OpenCV, the system enables efficient image and video stream processing with real-time gesture detection and visualization
 ## ⚙️ Environment & Tools  
-    Language: Python
+* Language: Python
+* Libraries:
+    * mediapipe – for hand tracking and image processing  
+    * cv2 (OpenCV) – for camera capture and visualization  
+    * math – for geometric computations  
     import cv2
     import mediapipe as mp
     import math
