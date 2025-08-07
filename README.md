@@ -6,7 +6,8 @@ This project demonstrates a real-time image recognition system utilizing MediaPi
 * Libraries:
     * mediapipe – for hand tracking and image processing  
     * cv2 (OpenCV) – for camera capture and visualization  
-    * math – for geometric computations  
+    * math – for geometric computations
+      
     import cv2
     import mediapipe as mp
     import math
