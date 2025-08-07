@@ -1,14 +1,8 @@
-# AI Image Recognition 
-## Summary
-MediaPipe is a cross-platform machine learning framework developed by Google, designed for implementing features 
-such as hand tracking, face detection, and pose estimation. By utilizing MediaPipe with Python, developers can 
-swiftly create machine learning-based applications that incorporate these functionalities. The development process 
-involves reading images or video streams, applying MediaPipe's processing modules, and visualizing or further 
-analyzing the results. When paired with Python, developers can efficiently deploy pre-built models through 
-its streamlined API and integrate with tools like OpenCV for data processing and visualization. The versatility 
-of Python facilitates the integration of MediaPipe with other tools, allowing for data post-processing and the 
-creation of interactive applications.
-## Environmet
+# 🧠 AI Image Recognition
+## 📌 Summary  
+This project demonstrates a real-time image recognition system utilizing MediaPipe and Python. MediaPipe, developed by Google, offers a cross-platform framework ideal for implementing machine learning features such as hand tracking, pose estimation, and face detection. Combined with Python’s flexibility and libraries like OpenCV, the system enables efficient image and video stream processing with real-time gesture detection and visualization
+## ⚙️ Environment & Tools  
+    Language: Python
     import cv2
     import mediapipe as mp
     import math
