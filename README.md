@@ -7,10 +7,11 @@ This project demonstrates a real-time image recognition system utilizing MediaPi
     * mediapipe – for hand tracking and image processing  
     * cv2 (OpenCV) – for camera capture and visualization  
     * math – for geometric computations
-      
-    import cv2
-    import mediapipe as mp
-    import math
+```    
+import cv2
+import mediapipe as mp
+import math
+```
 ## Usage
 Through the computer's camera, hand movements can be detected in real-time, allowing for the distinction of various gestures. 
 
